@@ -42,3 +42,12 @@ This system is a desktop invoice management tool built with Python Tkinter and S
 ├── invoices.db            # Database (auto-generated)
 ├── invoices_pdf/          # PDF storage (auto-generated)
 └── backups/               # Backups (auto-generated)
+```
+
+## Acknowledgments
+
+This project benefited from the use of the following AI-assisted development tools:  
+- **[DeepSeek](https://www.deepseek.com)**
+- **[Claude](https://www.anthropic.com)**
+
+We appreciate these advanced AI systems for enhancing development efficiency and code quality.
