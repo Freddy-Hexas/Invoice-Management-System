@@ -31,7 +31,7 @@ This system is a desktop invoice management tool built with Python Tkinter and S
 
 ## File Structure
 
-> .
+```bash
 ├── main.py                # Main entry
 ├── components/            # UI modules
 │   ├── detail_panel.py    # Detail panel
